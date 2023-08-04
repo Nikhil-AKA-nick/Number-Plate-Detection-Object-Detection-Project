@@ -19,7 +19,7 @@ https://github.com/Nikhil-AKA-nick/Number-Plate-Detection-Object-Detection-Proje
 https://github.com/Nikhil-AKA-nick/Number-Plate-Detection-Object-Detection-Project/assets/88368708/bc0c3b0b-ac32-44d2-a915-49d99a18d0e9
 
 
-
+## Project Pipeline
 
 - Object Traking
 
