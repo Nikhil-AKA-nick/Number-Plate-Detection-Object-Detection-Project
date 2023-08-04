@@ -1,2 +1,77 @@
-# Number-Plate-Detection-Object-Detection-Project
-Developed Number Plate Detection Model that detects Number plates from moving objects and store the results in csv file. In this model I implemented Coco model for object detection and number plate detector model for detecting model. This model is capable of predicting any number plates with good accuracy with minor adjustments
+
+# Number Plate Detection
+An Object Detection Project that detects Number plates from moving objects like Car, Bus, Truck, Bike. In this model I implemented Coco model and YOLO v8 for object detection and number plate detector model for detecting model. This model is capable of predicting any number plates with good accuracy with minor adjustments
+
+
+
+
+
+
+
+## Input 
+
+https://github.com/Nikhil-AKA-nick/test/assets/88368708/795de1a4-d1a6-4947-ac0b-4e4681b5c8ce
+
+## Output Result
+
+https://github.com/Nikhil-AKA-nick/test/assets/88368708/ded819f6-95d4-407d-aa55-aa9631e8efe5
+
+
+- Object Traking
+
+- Object Detection
+
+- Number Plate Detection
+
+- OCR 
+
+
+## Models and Python Libraries Used
+
+**Computer Vision :** Opencv
+
+**Object Tracking :** SORT Tracking Algorithm
+
+**Object Detection :** YOLO v8
+
+**Number Plate Detection :** Number Plate Detector Model
+
+**Reading Number Plate :** EasyOCR 
+
+**Others :** Pandas, Numpy
+## Try It Out
+
+Clone the project
+
+```bash
+  git clone https://github.com/Nikhil-AKA-nick/Number-Plate-Detection-Object-Detection-Project.git
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+
+```
+
+Download Sample file from below link
+
+```bash
+  https://drive.google.com/file/d/1YmHTElM6rh5uBpvaoUYpYTHK2odJkoM6/view
+```
+
+Run main.py file
+```bash
+  python main.py
+
+```
+
+Run add_missing_data.py file
+```bash
+  python add_missing_data.py
+```
+Lastly run the visualize.py file
+```bash
+  python visualize.py
+```
+
