@@ -10,11 +10,15 @@ An Object Detection Project that detects Number plates from moving objects like 
 
 ## Input 
 
-https://github.com/Nikhil-AKA-nick/test/assets/88368708/795de1a4-d1a6-4947-ac0b-4e4681b5c8ce
+https://github.com/Nikhil-AKA-nick/Number-Plate-Detection-Object-Detection-Project/assets/88368708/0eddfb1e-cb58-438c-8e85-8aae45d79ad1
+
+
 
 ## Output Result
 
-https://github.com/Nikhil-AKA-nick/test/assets/88368708/ded819f6-95d4-407d-aa55-aa9631e8efe5
+https://github.com/Nikhil-AKA-nick/Number-Plate-Detection-Object-Detection-Project/assets/88368708/bc0c3b0b-ac32-44d2-a915-49d99a18d0e9
+
+
 
 
 - Object Traking
